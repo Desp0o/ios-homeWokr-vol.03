@@ -4,7 +4,7 @@
 
 import Foundation
 
-let num = 9
+let num = 0
 
 if num == 0 {
     print("\(num) is zero")

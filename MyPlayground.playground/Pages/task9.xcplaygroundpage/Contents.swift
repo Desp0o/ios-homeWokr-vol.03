@@ -12,8 +12,8 @@ while temp > 0 {
     var lastNum = temp % 10
     sum += lastNum
     temp /= 10
-    print(lastNum)
 }
 //: [Next](@next)
 
-print(sum)
+
+print("number is \(number) and sum is \(sum)")
