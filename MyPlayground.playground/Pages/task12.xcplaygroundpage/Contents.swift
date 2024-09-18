@@ -5,7 +5,7 @@
 
 import Foundation
 
-let number = 11;
+var number = 11;
 let secondNum = number % 10;
 let firstNum = number / 10;
 

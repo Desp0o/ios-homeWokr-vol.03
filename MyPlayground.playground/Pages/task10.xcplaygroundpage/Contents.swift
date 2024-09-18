@@ -5,7 +5,7 @@
 
 import Foundation
 
-let word = "Foundation"
+var word = "Foundation"
 let targetLetters = "aeiou"
 var count = 0
 

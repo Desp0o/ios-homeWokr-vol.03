@@ -4,9 +4,9 @@
 
 import Foundation
 
-let myName = "Tornike"
+var myName = "Tornike"
 let firstLetter: Character = "T"
-let mergedString = "\(firstLetter) for \(myName)"
+var mergedString = "\(firstLetter) for \(myName)"
 
 print(mergedString)
 

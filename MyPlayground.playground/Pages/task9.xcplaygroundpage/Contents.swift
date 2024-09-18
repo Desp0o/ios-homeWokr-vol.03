@@ -4,7 +4,7 @@
 
 import Foundation
 
-let number = 1234
+var number = 1234
 var sum = 0
 var temp = number
 

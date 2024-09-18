@@ -5,7 +5,7 @@
 
 import Foundation
 
-let word = "Aloha"
+var word = "Aloha"
 let reversedWord = word.split(separator: "").reversed().joined(separator: "")
 
 print("\(word) -> \(reversedWord)")

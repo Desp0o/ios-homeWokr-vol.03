@@ -4,7 +4,7 @@
 
 import Foundation
 
-let num = 0
+var num = 0
 
 if num == 0 {
     print("\(num) is zero")
