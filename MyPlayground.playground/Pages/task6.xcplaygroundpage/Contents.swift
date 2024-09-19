@@ -6,7 +6,7 @@
 
 import Foundation
 
-for nums in 1...9{
+for nums in 1...9 {
     print(nums)
 }
 

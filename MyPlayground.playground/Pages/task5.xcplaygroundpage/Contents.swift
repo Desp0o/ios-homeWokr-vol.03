@@ -9,7 +9,7 @@ var greeting: String?
 
 if let temp = greeting {
     print(temp)
-}else{
+} else {
     print("There is no string")
 }
 
